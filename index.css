@@ -1,9 +1,38 @@
 body {
-    background-color: rgb(239, 255, 254);
+    background-color: rgb(246, 249, 249);
 }
 
 .menu {
     width: 400px;
     height: 400px;
-    margin: 8% auto 0 auto;
+    margin: 10% auto 0 auto;
 }
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    margin: 0 0 0 34%;
+    font-size: 400%;
+}
+
+button {
+
+    background: #0066A2;
+    
+    color: white;
+    
+    border-style: outset;
+    
+    border-color: #0066A2;
+    
+    height: 50px;
+    
+    width: 100px;
+    
+    font: bold 15px arial, sans-serif;
+    
+    text-shadow:none;
+    
+    }
